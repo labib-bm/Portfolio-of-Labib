@@ -1,0 +1,54 @@
+.home-link {
+    display: flex;
+}
+
+.nav {
+    width: 15%;
+    padding: 5px 10px 0px 10px;
+    color: white;
+    background-color: black;
+}
+
+.nav h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.nav a {
+    text-decoration: none;
+    color: yellow;
+}
+
+.My-summary {
+    width: 85%;
+    padding-right: 50px;
+    padding-left: 25px;
+}
+
+#header {
+    height: 200px;
+    background-image: url(home/home-back.jpg);
+    color: white;
+    font-style: italic;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+
+#header h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 20px 0px 0px 20px;
+}
+
+.my-short {
+    background-image: url(home/star.jpg);
+    padding: 50px 50px 100px 50px;
+}
+
+.my-short p {
+    font-size: 15px;
+    text-align: justify;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
